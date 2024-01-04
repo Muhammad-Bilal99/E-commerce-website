@@ -1,9 +1,10 @@
 import React from 'react'
+import "./Products.scss"
 
 const Products = () => {
   return (
-    <div>
-      Categories
+    <div className='products'>
+      Products
     </div>
   )
 }
